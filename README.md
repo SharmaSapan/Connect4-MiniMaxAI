@@ -7,3 +7,9 @@ The AI plays with using the minimax algorithm to determine what move to make. Us
 A better algorithm with Minimax is alpha beta prunning which I will implement in my chess game, published in a separate repositary.
 
 To play the game click on file with name "Connect4.cpython-37". You can select to play with human by pressing 1 or 2 for AI.
+
+
+end of output screenshot: 
+
+
+<img src="https://user-images.githubusercontent.com/54603828/123498521-605c4000-d5fe-11eb-8da5-7dd866a7ebdd.jpg" width="500" height="500">  
